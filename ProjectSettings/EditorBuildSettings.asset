@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 269cd81bf6dc44dca8156be54f4bc7e5
+  - enabled: 1
+    path: Assets/Scenes/LuziusSampleScene.unity
+    guid: a0206043c3b59064b80eccccf3733a1a
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: ecb9d326fcbda4146bbc61bfd30fbe19
+  - enabled: 0
+    path: Assets/Scenes/TerrainObjects.unity
+    guid: 70f73118d0d89b84bb30c0f0c84a2e42
+  m_configObjects: {}
